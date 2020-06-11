@@ -1,0 +1,20 @@
+body {
+    background-color: #FAFAFA;
+    margin: 0;
+}
+
+header {
+    height: 60px;
+    width: 100%;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: #fff;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    font-family: 'Avenir', 'Helvetica Neue', 'Helvetica', 'Arial', 'Hiragino Sans', 'ヒラギノ角ゴシック', YuGothic, 'Yu Gothic', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic'
+}
+
+header img {
+    height: 28px;
+    width: 35px;
+}

@@ -1,0 +1,77 @@
+header {
+    height: 60px;
+    width: 100%;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: #fff;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    font-family: 'Avenir', 'Helvetica Neue', 'Helvetica', 'Arial', 'Hiragino Sans', 'ヒラギノ角ゴシック', YuGothic, 'Yu Gothic', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic'
+}
+
+header img {
+    height: 28px;
+    width: 35px;
+}
+
+body {
+    background-color: #FAFAFA;
+    margin: 0;
+}
+
+.a {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Avenir', 'Helvetica Neue', 'Helvetica', 'Arial', 'Hiragino Sans', 'ヒラギノ角ゴシック', YuGothic, 'Yu Gothic', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic'
+}
+
+table {
+    background-color: white;
+}
+
+table th {
+    width: 110px;
+    height: 50px;
+}
+
+table td {
+    border: 1px solid #CCCCCC;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    vertical-align: top;
+}
+
+.checkbox {
+    text-align: center;
+}
+
+.decorated-btn {
+    color: #fff;
+    background-color: #21C788;
+    font-size: 12px;
+    border-radius: 5px;
+    border-bottom: solid 3px goldenrod;
+    box-shadow: 3px 3px 3px gray;
+    transition: 0.3s;
+}
+
+.click-down:active {
+    transform: translateY(2px);
+    border-bottom: none;
+}
+
+.decorated-btn:hover {
+    background-color: orange;
+}
+
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: #fff;
+    text-align: center;
+}
+
+ul.footer-menu li {
+    display: inline;
+}
